@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-10T17:18:42 GMT-12:00" name="Suite" finished-at="2021-05-10T17:19:25 GMT-12:00" duration-ms="42782">
+    <groups>
+      <group name="smoketest">
+        <method signature="Createcontact3.createContactradioTest()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" name="createContactradioTest" class="com.comcast.crm.createcontact.Createcontact3"/>
+        <method signature="Createcontact3.createContactradiooTest()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" name="createContactradiooTest" class="com.comcast.crm.createcontact.Createcontact3"/>
+      </group> <!-- smoketest -->
+    </groups>
+    <test started-at="2021-05-10T17:18:42 GMT-12:00" name="Test" finished-at="2021-05-10T17:19:25 GMT-12:00" duration-ms="42782">
+      <class name="com.comcast.crm.createcontact.Createcontact3">
+        <test-method is-config="true" signature="configBt()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:18:42 GMT-12:00" name="configBt" finished-at="2021-05-10T17:18:42 GMT-12:00" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBt -->
+        <test-method is-config="true" signature="configTb()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:18:42 GMT-12:00" name="configTb" finished-at="2021-05-10T17:18:42 GMT-12:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configTb -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:18:42 GMT-12:00" name="openbrowser" finished-at="2021-05-10T17:18:45 GMT-12:00" duration-ms="2641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:18:45 GMT-12:00" name="login" finished-at="2021-05-10T17:18:51 GMT-12:00" duration-ms="6255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createContactradioTest()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:18:51 GMT-12:00" name="createContactradioTest" finished-at="2021-05-10T17:19:06 GMT-12:00" duration-ms="14382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactradioTest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:19:06 GMT-12:00" name="logout" finished-at="2021-05-10T17:19:07 GMT-12:00" duration-ms="1760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:19:07 GMT-12:00" name="login" finished-at="2021-05-10T17:19:11 GMT-12:00" duration-ms="3672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createContactradiooTest()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:19:11 GMT-12:00" name="createContactradiooTest" finished-at="2021-05-10T17:19:23 GMT-12:00" duration-ms="12239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactradiooTest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:19:23 GMT-12:00" name="logout" finished-at="2021-05-10T17:19:25 GMT-12:00" duration-ms="1625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:19:25 GMT-12:00" name="closebrowser" finished-at="2021-05-10T17:19:25 GMT-12:00" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="configAt()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:19:25 GMT-12:00" name="configAt" finished-at="2021-05-10T17:19:25 GMT-12:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAt -->
+        <test-method is-config="true" signature="configAs()[pri:0, instance:com.comcast.crm.createcontact.Createcontact3@62e7f11d]" started-at="2021-05-10T17:19:25 GMT-12:00" name="configAs" finished-at="2021-05-10T17:19:25 GMT-12:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAs -->
+      </class> <!-- com.comcast.crm.createcontact.Createcontact3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
